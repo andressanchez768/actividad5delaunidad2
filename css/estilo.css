@@ -1,0 +1,133 @@
+/*Contenedor*/
+.contenedor{
+    width: 100%;
+    height: 400px;
+}
+.contenedorA{
+    width: 1230px;
+    height: 400px;
+    margin-left: 62px;
+}
+.tituloA{
+    padding-top: 50px;
+    margin-left: 62px;
+}
+.contenedorB{
+    width: 600px;
+    height: 400px;
+    float: left;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 17px;
+}
+
+/*Contenedor1*/
+.contenedor1{
+    width: 100%;
+    height: 600px;
+}
+.contenedor11{
+    width: 1230px;
+    height: 600px;
+    margin-left: 62px;
+}
+#titulo1{
+    padding-top: 20px;
+}
+.contenedor12{
+    width: 600px;
+    height: 400px;
+    float: left;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 17px; 
+}
+
+/*Contenedor2*/
+.contenedor2{
+    width: 100%;
+    height: 400px;
+}
+.contenedor21{
+    width: 1230px;
+    height: 400px;
+    margin-left: 62px;
+}
+#titulo2{
+    margin-top: -90px;
+    padding-top: -10px;
+}
+.contenedor22{
+    width: 400px;
+    height: 400px;
+    float: left;
+    padding: 40px;
+}
+.contenedor23{
+    width: 400px;
+    height: 400px;
+    float: left;
+    padding: 10px;
+}
+
+/*Contenedor3*/
+.contenedor3{
+    width: 100%;
+    height: 700px;
+}
+.contenedor31{
+    width: 1230px;
+    height: 700px;
+    margin-left: 62px;
+}
+.contenedor32{
+    width: 500px;
+    height: 700px;
+    float: left;
+    padding: 40px;
+}
+.contenedor33{
+    width: 700px;
+    height: 700px;
+    float: left;
+    padding-top: 42px;
+}
+
+/*Contenedor4*/
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: #297eff;
+}
+.contenedor4{
+    width: 1230px;
+    height: 400px;
+    float: left;
+    margin-top: -200px;
+}
+.contenedor41{
+    width: 400px;
+    height: 400px;
+    float: left;
+    padding-top: 130px;
+    padding-left: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+.paginas{
+    width: 450px;
+    height: 300px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    float: left;
+}
+.formulario{
+    width: 350px;
+    height: 400px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+    text-align: center;
+}

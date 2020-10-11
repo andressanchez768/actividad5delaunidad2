@@ -1,0 +1,131 @@
+body{
+    background-image: url(../img/Imagen22.png);
+}
+.fondo1{
+    background-image: url(../img/Imagen20.png);
+}
+#cuadricula{
+    margin-left: 0px;
+    margin-right: -17px;
+    margin-bottom: 0px;
+}
+#cuadricula1{
+    margin-left: -17px;
+    margin-right: -17px;
+    margin-bottom: 0px;
+}
+#cuadricula2{
+    margin-left: -17px;
+    margin-right: 0px;
+}
+#cuadriculaA{
+    margin-right: -17px;
+}
+#cuadriculaB{
+    margin-left: -17px;
+}
+/*Contenedor2*/
+.contenedor2{
+    width: 100%;
+    height: 400px;
+}
+.contenedor21{
+    width: 1230px;
+    height: 400px;
+    margin-left: 62px;
+    
+}
+#titulo2{
+    margin-left: 62px;
+    padding-top: 20px;
+    color: #009bc2;
+}
+.contenedor22{
+    width: 500px;
+    height: 300px;
+    float: left;
+    padding: 40px;   
+}
+.contenedor23{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 10px;
+    margin-left: 62px;
+}
+.contenedor24{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 10px;
+    margin-left: px;
+}
+.contenedor3{
+    width: 100%;
+    height: 700px;
+}
+#titulo3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #009bc2;
+}
+#contenedor31{
+    width: 1230px;
+    height: 700px;
+    margin-left: px;
+    float: left;
+ 
+}
+
+/*contenedor video*/
+.contenedorvideo{
+    width: 100%;
+    height: 600px;
+}
+.contenedorvideo1{
+    width: 1240px;
+    height: 600px;
+    margin-left: 62px;
+}
+
+/*Contenedor4*/
+footer{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/Imagen20.png);
+    margin-top: 90px;
+}
+.contenedor4{
+    width: 1230px;
+    height: 400px;
+    float: left;
+}
+.contenedor41{
+    width: 400px;
+    height: 400px;
+    float: left;
+    padding-top: 70px;
+    padding-left: 0px;
+    font-size: 25px;
+    text-align: center;
+}
+.paginas{
+    width: 450px;
+    height: 300px;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    float: left;
+}
+.formulario{
+    width: 350px;
+    height: 400px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+    text-align: center;
+}
+
